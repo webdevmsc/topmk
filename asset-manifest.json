@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/topmk/static/css/main.f855e6bc.css",
-    "main.js": "/topmk/static/js/main.65c6a907.js",
-    "static/js/453.dd88ae9e.chunk.js": "/topmk/static/js/453.dd88ae9e.chunk.js",
+    "main.js": "/topmk/static/js/main.cb349d73.js",
+    "static/js/453.b0e46711.chunk.js": "/topmk/static/js/453.b0e46711.chunk.js",
+    "static/media/topmklogo.png": "/topmk/static/media/topmklogo.e68cb28294a047724f81.png",
     "index.html": "/topmk/index.html",
     "main.f855e6bc.css.map": "/topmk/static/css/main.f855e6bc.css.map",
-    "main.65c6a907.js.map": "/topmk/static/js/main.65c6a907.js.map",
-    "453.dd88ae9e.chunk.js.map": "/topmk/static/js/453.dd88ae9e.chunk.js.map"
+    "main.cb349d73.js.map": "/topmk/static/js/main.cb349d73.js.map",
+    "453.b0e46711.chunk.js.map": "/topmk/static/js/453.b0e46711.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.65c6a907.js"
+    "static/js/main.cb349d73.js"
   ]
 }
